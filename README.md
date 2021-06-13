@@ -1,2 +1,2 @@
 # ReactUserApp
-(Link to Demo)[https://codenameninja.github.io/ReactUserApp]
+(Link to Demo)[https://codenameninja.github.io/React-ATypicalUserLoginApp]
