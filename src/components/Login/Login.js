@@ -58,19 +58,22 @@ const Login = (props) => {
   }, [emailIsValid, passwordIsValid]);
 
   const emailChangeHandler = (event) => {
-    // setEnteredEmail(event.target.value);
+    // @ts-ignore
     dispatchEmail({ type: "USER_INPUT", val: event.target.value });
   };
 
   const passwordChangeHandler = (event) => {
+    // @ts-ignore
     dispatchPassword({ type: "USER_INPUT", val: event.target.value });
   };
 
   const validateEmailHandler = () => {
+    // @ts-ignore
     dispatchEmail({ type: "INPUT_BLUR" });
   };
 
   const validatePasswordHandler = () => {
+    // @ts-ignore
     dispatchPassword({ type: "INPUT_BLUR" });
   };
 
@@ -82,8 +85,10 @@ const Login = (props) => {
     if (formIsValid) {
       authCtx.onLogin(emailState.value, passwordState.value);
     } else if (!emailIsValid) {
+      // @ts-ignore
       emailInputRef.current.focus();
     } else {
+      // @ts-ignore
       passwordInputRef.current.focus();
     }
   };
@@ -93,6 +98,7 @@ const Login = (props) => {
       <form onSubmit={submitHandler}>
         <Input
           ref={emailInputRef}
+          // @ts-ignore
           id="email"
           label="Email"
           type="email"
@@ -103,6 +109,7 @@ const Login = (props) => {
         ></Input>
         <Input
           ref={passwordInputRef}
+          // @ts-ignore
           id="password"
           label="Password"
           type="password"
