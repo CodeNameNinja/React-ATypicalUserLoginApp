@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-ATypicalUserLoginApp/static/css/main.5cf95d13.chunk.css",
-    "main.js": "/React-ATypicalUserLoginApp/static/js/main.e434ca0a.chunk.js",
-    "main.js.map": "/React-ATypicalUserLoginApp/static/js/main.e434ca0a.chunk.js.map",
+    "main.js": "/React-ATypicalUserLoginApp/static/js/main.cfc7a285.chunk.js",
+    "main.js.map": "/React-ATypicalUserLoginApp/static/js/main.cfc7a285.chunk.js.map",
     "runtime-main.js": "/React-ATypicalUserLoginApp/static/js/runtime-main.6192c954.js",
     "runtime-main.js.map": "/React-ATypicalUserLoginApp/static/js/runtime-main.6192c954.js.map",
     "static/js/2.4b4d55ab.chunk.js": "/React-ATypicalUserLoginApp/static/js/2.4b4d55ab.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6192c954.js",
     "static/js/2.4b4d55ab.chunk.js",
     "static/css/main.5cf95d13.chunk.css",
-    "static/js/main.e434ca0a.chunk.js"
+    "static/js/main.cfc7a285.chunk.js"
   ]
 }
