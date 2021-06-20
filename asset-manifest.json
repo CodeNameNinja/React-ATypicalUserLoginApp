@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-ATypicalUserLoginApp/static/css/main.5cf95d13.chunk.css",
-    "main.js": "/React-ATypicalUserLoginApp/static/js/main.cfc7a285.chunk.js",
-    "main.js.map": "/React-ATypicalUserLoginApp/static/js/main.cfc7a285.chunk.js.map",
+    "main.css": "/React-ATypicalUserLoginApp/static/css/main.32471010.chunk.css",
+    "main.js": "/React-ATypicalUserLoginApp/static/js/main.54402187.chunk.js",
+    "main.js.map": "/React-ATypicalUserLoginApp/static/js/main.54402187.chunk.js.map",
     "runtime-main.js": "/React-ATypicalUserLoginApp/static/js/runtime-main.6192c954.js",
     "runtime-main.js.map": "/React-ATypicalUserLoginApp/static/js/runtime-main.6192c954.js.map",
-    "static/js/2.4b4d55ab.chunk.js": "/React-ATypicalUserLoginApp/static/js/2.4b4d55ab.chunk.js",
-    "static/js/2.4b4d55ab.chunk.js.map": "/React-ATypicalUserLoginApp/static/js/2.4b4d55ab.chunk.js.map",
+    "static/js/2.115aa68b.chunk.js": "/React-ATypicalUserLoginApp/static/js/2.115aa68b.chunk.js",
+    "static/js/2.115aa68b.chunk.js.map": "/React-ATypicalUserLoginApp/static/js/2.115aa68b.chunk.js.map",
     "index.html": "/React-ATypicalUserLoginApp/index.html",
-    "static/css/main.5cf95d13.chunk.css.map": "/React-ATypicalUserLoginApp/static/css/main.5cf95d13.chunk.css.map",
-    "static/js/2.4b4d55ab.chunk.js.LICENSE.txt": "/React-ATypicalUserLoginApp/static/js/2.4b4d55ab.chunk.js.LICENSE.txt"
+    "static/css/main.32471010.chunk.css.map": "/React-ATypicalUserLoginApp/static/css/main.32471010.chunk.css.map",
+    "static/js/2.115aa68b.chunk.js.LICENSE.txt": "/React-ATypicalUserLoginApp/static/js/2.115aa68b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6192c954.js",
-    "static/js/2.4b4d55ab.chunk.js",
-    "static/css/main.5cf95d13.chunk.css",
-    "static/js/main.cfc7a285.chunk.js"
+    "static/js/2.115aa68b.chunk.js",
+    "static/css/main.32471010.chunk.css",
+    "static/js/main.54402187.chunk.js"
   ]
 }
